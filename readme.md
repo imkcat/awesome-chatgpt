@@ -24,14 +24,23 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Official](#official)
 - [Apps](#apps)
 - [Web apps](#web-apps)
+	- [Hosted and self-hosted](#hosted-and-self-hosted)
+	- [Hosted](#hosted)
+	- [Self-hosted](#self-hosted)
+	- [Examples](#examples)
 - [Browser extensions](#browser-extensions)
 - [CLI tools](#cli-tools)
 - [Bots](#bots)
 - [Integrations](#integrations)
 - [Packages](#packages)
+	- [API clients](#api-clients)
+	- [JavaScript](#javascript)
+	- [Python](#python)
+	- [Go](#go)
 - [Articles](#articles)
 - [Community](#community)
 - [Related lists](#related-lists)
@@ -183,6 +192,7 @@
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
 - [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
 - [aifiles](https://github.com/jjuliano/aifiles) - Organize and manage your files using AI.
+- [catchat](https://github.com/imkcat/catchat) - AI chat on your terminal.
 
 ## Bots
 
